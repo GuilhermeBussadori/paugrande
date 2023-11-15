@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://redirector.googlevideo.com/videoplayback?expire=1700003349&ei=talTZZTbCfuki9oP19CR6A0&ip=2a01%3A4f8%3A202%3A7261%3A%3A2&id=o-AIRN7aQ3Rk4PWpKDyUnKjrzjbCqd7pNk88cV9CIXBPQW&itag=18&source=youtube&requiressl=yes&mh=ga&mm=31%2C26&mn=sn-4g5lznez%2Csn-f5f7lnl6&ms=au%2Conr&mv=m&mvi=1&pl=42&initcwndbps=517500&siu=1&vprv=1&mime=video%2Fmp4&gir=yes&clen=8776480&ratebypass=yes&dur=213.056&lmt=1666900498443448&mt=1699981305&fvip=5&fexp=24007246&beids=24350018&c=ANDROID_TESTSUITE&txp=4530434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Csiu%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ANLwegAwRQIgELYkMI8ny9AJEeKQtf3rZ3-HRxv85NTnl23fd4eFxrYCIQC4lHC9vns1RWTzE_uXYeCp-0_AF9nH9jcTT8aOeiWPEw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AM8Gb2swRgIhAJzPgw6D1rIWROvxTlqcZ7nCcPkks9xmoUNSV_c28nrJAiEA-jJs4KwOL7uiJ4HXePcIjzzcl4jBnvT7DNyan-ADfrA%3D&range=0-8776479&title=y2meta.com%20-%20RickRoll%27D" # Link to the webpage to redirect to 
+        "page": "https://player.vimeo.com/video/438334658?h=0f54cb613c" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
