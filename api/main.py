@@ -50,7 +50,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
+        "redirect": True, # Redirect to a webpage?
         "page": "https://player.vimeo.com/video/438334658?h=0f54cb613c" # Link to the webpage to redirect to 
     },
 
