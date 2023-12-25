@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://xvideos.com/" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://cdn77-pic.xvideos-cdn.com/videos/thumbs169poster/fc/fe/5d/fcfe5d42d3fe909161c21fc0c0f3ab07-2/fcfe5d42d3fe909161c21fc0c0f3ab07.30.jpg" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
