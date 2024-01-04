@@ -50,8 +50,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://scontent.fumu4-1.fna.fbcdn.net/v/t39.30808-1/299773187_494607162667292_6427263827476932960_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=596444&_nc_ohc=G_RoCvhibmIAX8zbUUm&_nc_ht=scontent.fumu4-1.fna&oh=00_AfCTJ4uDZ2hcBUJPO0YnT-EEzV6D47k2U_SVLLqhLyt__g&oe=658FC326" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://pt.pornhub.com/video?c=88" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
