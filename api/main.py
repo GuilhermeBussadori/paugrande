@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://dinobox.cloud/drive/s/bUnYv2jnbsFk6a6q1yS2pdbJFBtPpB" # Link to the webpage to redirect to 
+        "page": "https://www.youtube.com/watch?v=qLHwMqvrrEU" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
